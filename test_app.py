@@ -1,4 +1,4 @@
-nano test_app.pyimport pytest
+import pytest
 from app import app, mongo
 from bson.objectid import ObjectId
 
