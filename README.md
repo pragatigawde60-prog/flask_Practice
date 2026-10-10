@@ -112,6 +112,8 @@ Form pre-filled with student details.
 - <img width="1905" height="897" alt="image" src="https://github.com/user-attachments/assets/04febf01-879f-431f-ab07-abcfb993acf1" />
 
 
+**Piplelines automated tests completed successfully**
+<img width="940" height="517" alt="image" src="https://github.com/user-attachments/assets/5fda4afc-3b64-477b-8369-84d2dd9b930b" />
 
 ---
 
